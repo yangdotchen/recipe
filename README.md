@@ -8,10 +8,14 @@ line 2 changed remotely
 3. Third item
 4. Fourth item 
 
-<em><strong>This is a file for a classic lemon meringue pie.</strong></em>
-Crusty shell and fluffy meringue. 
+<strong>This is a file for a classic lemon meringue pie.</strong><br>
+<em>Crusty shell and fluffy meringue.</em>
 
+![Mmm pie](/yangd/assignment 3/recipe/recipe.jpg)
+    
 Found on this website
 
 https://sallysbakingaddiction.com/lemon-meringue-pie/
 ### This is a REMOTE change :O
+
+
