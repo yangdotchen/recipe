@@ -11,7 +11,7 @@ line 2 changed remotely
 <strong>This is a file for a classic lemon meringue pie.</strong><br>
 <em>Crusty shell and fluffy meringue.</em>
 
-![Mmm pie](/yangd/assignment 3/recipe/recipe.jpg)
+![Mmm pie](https://sallysbakingaddiction.com/wp-content/uploads/2018/03/lemon-meringue-pie-recipe-3.jpg)
     
 Found on this website
 
